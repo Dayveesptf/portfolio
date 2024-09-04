@@ -430,7 +430,7 @@ body {
     height: 90%;
     display: inline-block; 
     margin-left: 50%;
-    margin-top: -100%;
+    margin-top: -75%;
 }
 
 #img-section-2 img {
@@ -442,7 +442,7 @@ body {
     margin: 0;
     width: 100%;
     padding-top: 30px;
-    margin-top: 5%;
+    margin-top: 15%;
 }
 
 #section-5 h3 {
