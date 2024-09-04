@@ -430,7 +430,7 @@ body {
     height: 90%;
     display: inline-block; 
     margin-left: 50%;
-    margin-top: -75%;
+    margin-top: -95%;
 }
 
 #img-section-2 img {
@@ -462,7 +462,7 @@ body {
     font-family: Arial, Helvetica, Sans-serif;
     color: gray;
     margin-left: 5%;
-    margin-right: 5%;
+    margin-right: -15%;
 }
 
 #section-5 h5 {
