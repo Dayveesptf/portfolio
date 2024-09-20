@@ -64,6 +64,8 @@ body {
 
 .card-list .card-item .card-link:hover {
     border-color: orange;
+    margin-top: -20px;
+    transition: 0.5s;
 }
 
 .card-list .card-link .card-image {
